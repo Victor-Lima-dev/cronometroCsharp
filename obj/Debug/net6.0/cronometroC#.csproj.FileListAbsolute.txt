@@ -1,0 +1,15 @@
+C:\Users\Vitor\Desktop\projetos\cronometroC#\bin\Debug\net6.0\cronometroC#.exe
+C:\Users\Vitor\Desktop\projetos\cronometroC#\bin\Debug\net6.0\cronometroC#.deps.json
+C:\Users\Vitor\Desktop\projetos\cronometroC#\bin\Debug\net6.0\cronometroC#.runtimeconfig.json
+C:\Users\Vitor\Desktop\projetos\cronometroC#\bin\Debug\net6.0\cronometroC#.dll
+C:\Users\Vitor\Desktop\projetos\cronometroC#\bin\Debug\net6.0\cronometroC#.pdb
+C:\Users\Vitor\Desktop\projetos\cronometroC#\obj\Debug\net6.0\cronometroC#.csproj.AssemblyReference.cache
+C:\Users\Vitor\Desktop\projetos\cronometroC#\obj\Debug\net6.0\cronometroC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\Desktop\projetos\cronometroC#\obj\Debug\net6.0\cronometroC#.AssemblyInfoInputs.cache
+C:\Users\Vitor\Desktop\projetos\cronometroC#\obj\Debug\net6.0\cronometroC#.AssemblyInfo.cs
+C:\Users\Vitor\Desktop\projetos\cronometroC#\obj\Debug\net6.0\cronometroC#.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\projetos\cronometroC#\obj\Debug\net6.0\cronometroC#.dll
+C:\Users\Vitor\Desktop\projetos\cronometroC#\obj\Debug\net6.0\refint\cronometroC#.dll
+C:\Users\Vitor\Desktop\projetos\cronometroC#\obj\Debug\net6.0\cronometroC#.pdb
+C:\Users\Vitor\Desktop\projetos\cronometroC#\obj\Debug\net6.0\cronometroC#.genruntimeconfig.cache
+C:\Users\Vitor\Desktop\projetos\cronometroC#\obj\Debug\net6.0\ref\cronometroC#.dll
